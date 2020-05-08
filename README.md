@@ -4,7 +4,7 @@ Forked from https://github.com/ageron/handson-ml.
 
 This repository is a collection of jupyter notebooks to teach some of the basics of machine learning. They provide easy access to out-of-the-box code examples, and they are meant to give insights into the most basic machine-learning algorithms.
 
-Many of the code examples are taken from or inspired by Ref. [1], a book I can only recommend to study for hands-on examples of machine learning. All code examples of the book are available in the A. Geron's [github repository](https://github.com/ageron/handson-ml). As this repository is a direct forked from A. Geron's repository, it is made available under the same licensing terms using the Apache License 2.0. Please make sure to follow the respective conditions of this license when distributing or using this repository.
+All of the code examples are taken from or inspired by Ref. [1], a book I can only recommend to study for hands-on examples of machine learning. All code examples of the book are available in the A. Geron's [github repository](https://github.com/ageron/handson-ml). As this repository is a direct fork of A. Geron's repository, it is made available under the same licensing terms using the Apache License 2.0. Please make sure to follow the respective conditions of this license when distributing or using this repository.
 
 [1] A. Geron, _Hands-On Machine Learning with Scikit-Learn and TensorFlow_, O'Reilly 2017, ISBN: 978-1491962299
 
